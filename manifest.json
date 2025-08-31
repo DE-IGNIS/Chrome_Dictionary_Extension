@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Fast Meaning",
+    "description": "Mini dictionary extension .",
+    "version": "1.0.0",
+    "author": "Cryptic-Cortex",
+    "side_panel": {
+        "default_path": "index.html"
+    },
+    "permissions": [
+        "sidePanel"
+    ]
+}
